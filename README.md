@@ -40,16 +40,6 @@ supervisor: Supervisor running with PID:<supervisor_pid>
 
 worker: Worker running with PID:<worker_pid>
 ```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
 And I believe that is enough, feel free to go nuts and experiment(P.S. I hear this can be used for anti-viruses or for something else)
 
 ## Anything in the near future for this?
